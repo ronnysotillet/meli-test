@@ -49,7 +49,7 @@ const BarCharts = ({ historical, predictions }: BarChartsProps) => {
     animate={{ opacity: 1, y: 0 }}
     transition={{ delay: 0.2, duration: 0.5 }}>
     <h2 className='text-base md:text-lg font-medium mb-4 text-gray-100 text-center md:text-left'>
-      Oters overview
+     Grafico de proyecciones
     </h2>
 
     <label htmlFor="filtro">Filter by: </label>
